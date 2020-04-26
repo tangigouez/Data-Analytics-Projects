@@ -1,7 +1,7 @@
 # dataset_analysis_projects
-You will find in this repository some of my works on Datasets downloaded from Kaggle and other sources. This repo is aimed to publish the projects I realized in the course of my training to process Data Analysis on large Datasets with Python.
+This repo is aimed to publish the projects I realized in the course of my training to process Data Analysis on large Datasets with Python (Datasets downloaded from Kaggle and other sources).
 
-Each project is focused on testing skills that I have learned through online courses such as Data Cleaning, Using Dataframes or Data visualisation for example. 
+Each project is focused on testing skills that I have learned through online courses.
 
 You will find below the list of my projects, as well as the details of the skills I have used on each of them :
 
@@ -18,7 +18,7 @@ You will find below the list of my projects, as well as the details of the skill
 - Working with dates and times
 
 `Project_Exploring_Ebay_Car_Sales_Data.ipynb` : 
-- Use the Numpy library
+- Numpy library
 - Exploring datas with Pandas
 - Basics of data cleaning 
 
