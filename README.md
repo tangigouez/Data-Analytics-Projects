@@ -1,4 +1,4 @@
-# Dataset_Analysis_Projects
+# dataset_analysis_projects
 You will find in this repository some of my works on Datasets downloaded from Kaggle and other sources. This repo is aimed to publish the projects I realized in the course of my training to process Data Analysis on large Datasets with Python.
 
 Each project is focused on testing a skill that I have learned through online courses such as Data Cleaning, Using Dataframes or Data visualisation for example. 
