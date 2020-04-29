@@ -25,3 +25,9 @@ You will find below the list of my projects, as well as the details of the skill
 `Project_DataViz_Visualizing Earnings Based on College Majors.ipynb` :
 - Introduction to Data Visualization
 - Line Chart, Multiple plots, Bar plots and scatter plots, histograms and box plots, etc.
+
+`Project_Analyzing_CIA_Factbook Data Using SQL.ipynb` :
+- Basic SQL Queries
+- Compute Summary statistics
+- Group Summary Statistics
+- Subqueries
