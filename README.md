@@ -27,7 +27,12 @@ You will find below the list of my projects, as well as the details of the skill
 - Line Chart, Multiple plots, Bar plots and scatter plots, histograms and box plots, etc.
 
 `Project_Analyzing_CIA_Factbook Data Using SQL.ipynb` :
-- Basic SQL Queries
+- Basic SQLite Queries
 - Compute Summary statistics
 - Group Summary Statistics
 - Subqueries
+
+`Kaggle_Dataset_Analysis_Facebook_Human_Robot.ipynb` :
+- Data cleaning 
+- Working with Dataframes
+- Data Visualisation
